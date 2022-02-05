@@ -1,6 +1,6 @@
 # Front-end 101 third css homework
 
-# A clone of latest Google search page
+## A clone of latest Google search page
 
 The third homework I have done throughout my education journey at [patika.dev](https://www.patika.dev/) platform
 
